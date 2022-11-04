@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author toshiba
+ *
+ */
+module readingFileDemo {
+}
