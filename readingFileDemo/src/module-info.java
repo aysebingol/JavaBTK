@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author toshiba
- *
- */
-module readingFileDemo {
-}
